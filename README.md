@@ -38,6 +38,7 @@ On your other machine or mobile device open the url:
 
 ```bash
 http://<your_ip_or_localhost>:3000
+```
 
 # Testing
 
